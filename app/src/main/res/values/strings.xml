@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SolicitudesHTTP</string>
+    <string name="Validar_red">Validar Red</string>
+    <string name="Solicitud_HTTP">Solicitud HTTP</string>
+    <string name="Solicitud_HTTP_Volley">Solicitud HTTP Volley</string>
+    <string name="SOLICITUD_HTTP_OKHTTP">SOLICITUD HTTP OKHTTP</string>
+
+</resources>
